@@ -1,0 +1,28 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">CalorieConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro">Convert calorie values between exercises:</string>
+    <string name="calories">Calories: 0.0</string>
+    <string name="zero">0.0</string>
+    <string name="pushUps">Push-Ups:</string>
+    <string name="exerciseLabel">Choose an exercise:</string>
+    <string name="inputLabel">Enter <font color="LIGHTGREY">Reps</font> or
+        <font color="WHITE">Mins:</font></string>
+    <string name="enterReps"><font color="LIGHTGREY"><i>Enter Reps</i></font></string>
+    <string name="enterMins"><i>Enter Mins</i></string>
+    <string name="choose">Choose an Exercise:</string>
+    <string-array name="exercises">
+        <item>Cycling</item>
+        <item>Jogging</item>
+        <item>Jumping Jacks</item>
+        <item>Leg-lifts</item>
+        <item>Plank</item>
+        <item><font color="LIGHTGREY">Pullups</font></item>
+        <item><font color="LIGHTGREY">Pushups</font></item>
+        <item><font color="LIGHTGREY">Situps</font></item>
+        <item><font color="LIGHTGREY">Squats</font></item>
+        <item>Stair-Climbing</item>
+        <item>Swimming</item>
+        <item>Walking</item>
+    </string-array>
+</resources>
